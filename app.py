@@ -34,7 +34,7 @@ st.markdown("""
     <p style='text-align:center; font-size:18px;'>Click below to discover something interesting 👇</p>
 """, unsafe_allow_html=True)
 
-# ✅ polish line
+
 st.markdown("<hr style='margin-top:10px;'>", unsafe_allow_html=True)
 
 # -----------------------
